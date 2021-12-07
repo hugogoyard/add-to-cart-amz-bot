@@ -4,8 +4,6 @@ Then you will have to install the different libraries (if you don't already have
 
 ```shell
 pip install selenium
-```
-```shell
 pip install colorama
 ```
 
